@@ -1157,7 +1157,7 @@ function menu() {
     textAlign(CENTER, CENTER);
     textFont('Georgia');
     textSize(py(60));
-    text("Tumble crumble", px(OW / 2), py(200));
+    text("Temple crumble", px(OW / 2), py(200));
     textSize(py(20));
     text("By Christophe Moawad", px(OW / 2), py(250))
 
